@@ -1,4 +1,3 @@
-o
 Lot'o stuff
 ---
 * https://notendur.hi.is/vae11/%C3%9Eekking/principles_of_mathematical_analysis_walter_rudin.pdf
